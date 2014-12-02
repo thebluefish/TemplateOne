@@ -1,0 +1,16 @@
+c:\users\skauf1\documents\visual studio 2013\Projects\TemplateOne\TemplateOne\bin\Debug\TemplateOne.exe.config
+c:\users\skauf1\documents\visual studio 2013\Projects\TemplateOne\TemplateOne\bin\Debug\TemplateOne.exe
+c:\users\skauf1\documents\visual studio 2013\Projects\TemplateOne\TemplateOne\bin\Debug\TemplateOne.pdb
+c:\users\skauf1\documents\visual studio 2013\Projects\TemplateOne\TemplateOne\obj\Debug\TemplateOne.csprojResolveAssemblyReference.cache
+c:\users\skauf1\documents\visual studio 2013\Projects\TemplateOne\TemplateOne\obj\Debug\TemplateOne.MainForm.resources
+c:\users\skauf1\documents\visual studio 2013\Projects\TemplateOne\TemplateOne\obj\Debug\TemplateOne.Properties.Resources.resources
+c:\users\skauf1\documents\visual studio 2013\Projects\TemplateOne\TemplateOne\obj\Debug\TemplateOne.csproj.GenerateResource.Cache
+c:\users\skauf1\documents\visual studio 2013\Projects\TemplateOne\TemplateOne\obj\Debug\TemplateOne.exe
+c:\users\skauf1\documents\visual studio 2013\Projects\TemplateOne\TemplateOne\obj\Debug\TemplateOne.pdb
+C:\Users\SKAUF1\documents\visual studio 2013\Projects\TemplateOne\TemplateOne\obj\Debug\TemplateOne.FormSettings.resources
+C:\Users\SKAUF1\documents\visual studio 2013\Projects\TemplateOne\TemplateOne\bin\Debug\Polenter.SharpSerializer.dll
+C:\Users\SKAUF1\documents\visual studio 2013\Projects\TemplateOne\TemplateOne\bin\Debug\Polenter.SharpSerializer.pdb
+C:\Users\SKAUF1\documents\visual studio 2013\Projects\TemplateOne\TemplateOne\bin\Debug\Polenter.SharpSerializer.xml
+C:\Users\skauf1\Downloads\TemplateOne\TemplateOne\TemplateOne\bin\Debug\TemplateOne.exe.config
+C:\Users\skauf1\Downloads\TemplateOne\TemplateOne\TemplateOne\obj\Debug\TemplateOne.exe
+C:\Users\skauf1\Downloads\TemplateOne\TemplateOne\TemplateOne\obj\Debug\TemplateOne.pdb

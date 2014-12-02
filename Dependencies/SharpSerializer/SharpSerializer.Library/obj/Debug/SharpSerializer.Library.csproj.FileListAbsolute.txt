@@ -1,0 +1,6 @@
+C:\Users\SKAUF1\Documents\Visual Studio 2013\Projects\TemplateOne\Dependencies\SharpSerializer\SharpSerializer.Library\bin\Debug\Polenter.SharpSerializer.XML
+C:\Users\SKAUF1\Documents\Visual Studio 2013\Projects\TemplateOne\Dependencies\SharpSerializer\SharpSerializer.Library\bin\Debug\Polenter.SharpSerializer.dll
+C:\Users\SKAUF1\Documents\Visual Studio 2013\Projects\TemplateOne\Dependencies\SharpSerializer\SharpSerializer.Library\bin\Debug\Polenter.SharpSerializer.pdb
+C:\Users\SKAUF1\Documents\Visual Studio 2013\Projects\TemplateOne\Dependencies\SharpSerializer\SharpSerializer.Library\obj\Debug\SharpSerializer.Library.csprojResolveAssemblyReference.cache
+C:\Users\SKAUF1\Documents\Visual Studio 2013\Projects\TemplateOne\Dependencies\SharpSerializer\SharpSerializer.Library\obj\Debug\Polenter.SharpSerializer.dll
+C:\Users\SKAUF1\Documents\Visual Studio 2013\Projects\TemplateOne\Dependencies\SharpSerializer\SharpSerializer.Library\obj\Debug\Polenter.SharpSerializer.pdb

@@ -1,0 +1,21 @@
+﻿<Complex name="Root" type="TemplateOne.Data.Data, TemplateOne, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+  <Properties>
+    <Complex name="settings">
+      <Properties>
+        <Simple name="alwaysOnTop" value="False" />
+      </Properties>
+    </Complex>
+    <Collection name="groups">
+      <Properties>
+        <Simple name="Capacity" value="1" />
+      </Properties>
+      <Items>
+        <Complex>
+          <Properties>
+            <Simple name="groupColorHtml" value="Yellow" >
+          </Properties>
+        </Complex>
+      </Items>
+    </Collection>
+  </Properties>
+</Complex>
